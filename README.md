@@ -1,13 +1,16 @@
+<p align="center">
+  <img src="./assets/typea11y.png" alt="TypeA11y Logo" width="400"/>
+</p>
 # TypeA11y - Accessibility Compiler Plugin
 
 A powerful TypeScript/Babel compiler plugin that enforces accessibility (a11y) best practices at compile time. This plugin helps catch accessibility issues early in the development process by validating React/JSX code against WAI-ARIA specifications.
 
 
 
-## Vision: 
+## Vision
 A library or tool that runs compile-time validations against your JSX/TSX/HTML code to catch common accessibility mistakes—missing alt attributes, incorrect ARIA roles, or lack of proper headings structure.
 
-## What problem it solves: 
+## What problem it solves 
 Accessibility issues often slip through until runtime or manual testing. A compile-time solution would guide developers to fix these problems early. Combined with a typed approach, it could offer suggestions for compliant ARIA attributes and highlight required accessibility properties.
 
 ## Features
