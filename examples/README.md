@@ -13,6 +13,14 @@ See [navigation.tsx](./basic/navigation.tsx)
 ### 3. Dialog Components
 See [dialog.tsx](./basic/dialog.tsx)
 
+Each example above follows accessibility best practices and will pass TypeA11y's compile-time checks for:
+
+- Correct ARIA roles
+- Required ARIA attributes
+- Proper heading structure
+- Label associations
+- Keyboard accessibility requirements
+
 ## Advanced Examples
 
 ### 1. Custom Validators
